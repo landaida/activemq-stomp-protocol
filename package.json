@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-stomp": "^1.0.3",
-    "stomp-client": "^0.9.0"
+    "node-stomp": "^1.0.3"
   }
 }
