@@ -23,6 +23,13 @@ http://localhost:8161/admin/queues.jsp
 
     {"id":1, "name":"One", "result":25}
 
-![alt text](./img/2018-08-18 14_42_18-Windows PowerShell.png)
-
-
+<p align="center">
+    <br><br>
+    <img src="./img/2018-08-18 14_42_18-Windows PowerShell.png"/>
+    <br><br>
+    <img src="./img/2018-08-18 14_44_05-localhost _ Queues.png"/>
+    <br><br>
+    <img src="./img/2018-08-18 14_44_34-Windows PowerShell.png"/>
+    <br><br>
+    <img src="./img/2018-08-18 14_44_54-localhost _ Message ID_0f361e7fa1a7-41059-1534531989138-5_191_-1_1_1.png"/>
+</p>
