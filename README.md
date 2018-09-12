@@ -12,7 +12,7 @@ docker pull webcenter/activemq:latest
 ## To create an container whit the pulled image only exec this command in your terminal:
 docker run -d --name='activemq' -p 8161:8161 -p 61613:61613 webcenter/activemq:latest
 
-## After this you already have an activemq service running in your localhost, to see informations about your queue list and messages go to below link:
+## After this you already have an activemq service running in your localhost, to see informations about your queue list and messages go to below link(default user:admin, default password:admin):
 http://localhost:8161/admin/queues.jsp
 
 
